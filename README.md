@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anindo-Ahmed
 - I’m interested in web development
-- I’m currently learning problem solving, coding & coding.
+- I’ll always learn problem solving, coding & coding.
 - I’m looking to collaborate with you or your organisation.
 - I am available on github.
 
